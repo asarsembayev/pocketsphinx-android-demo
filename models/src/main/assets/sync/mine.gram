@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar mine;
+
+public <item> = bank | restaurant | bistro | building | territory | atm | station;
